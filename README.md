@@ -10,7 +10,7 @@ The repository contains the following prayers *(orationes):*
 * Hail Mary *(Ave Maria)*
 * Glory Be to the Father *(Gloria Patri)*
 
-It also contains the Nicene Creed *(Symbolum Nicaenum).*
+It also contains the Nicene Creed *(Symbolum Nicaenum)* and Apostles' Creed *(Symbolum Apostolorum).*
 
 ## Compilation
 
@@ -20,4 +20,5 @@ Build them using the provided Makefile:
 ```bash
 make orationes.pdf
 make symbolum_nicaenum.pdf
+make symbolum_apostolorum.pdf
 ```
